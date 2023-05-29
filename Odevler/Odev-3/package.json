@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "sass": "sass -w sass:css",
+    "installserver" : "npm i --g json-server",
     "startserver": "json-server --watch ./db.json"
   },
   "type": "module",
