@@ -1,7 +1,7 @@
 class Request {
   constructor(brand, model, type, motorcc, banner, gas, status, price,stock) {
-    this.url = "http://localhost:3005/contents";
-    this.basketUrl = "http://localhost:3005/basket";
+    this.url = "https://my-json-server.typicode.com/omerceltikk/Turcell-GYGY--Frontend-Projects/data";
+    this.basketUrl = "https://my-json-server.typicode.com/omerceltikk/Turcell-GYGY--Frontend-Projects/basket";
     this.id = Date.now();
     this.brand = brand;
     this.model = model;

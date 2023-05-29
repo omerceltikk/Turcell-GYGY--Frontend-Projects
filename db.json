@@ -53,5 +53,73 @@
       "content": "Are you currently looking into purchasing a new home? Or maybe you’ve just got the keys to one? There is a common misconception that buying a new build means you won’t be able to add your own personal touch, but that is not the case. If you secure your home early enough in the build process, some developers will allow you to personalise the home during the building stage. This will vary between different developers but typically includes choosing cabinet colours, worktop materials, and carpet colours.It is worth noting that opting for anything that doesn’t come as standard will likely come at a higher price and so this will need to be factored into your budget. Period features As suggested by the name new build, these types of homes won’t have period features, however, nothing is stopping you from adding features to your home that make it feel like an older property. Picture rails, ceiling roses, and wall panelling are popular choices for giving a home more character.Not only will this give your home more character, but it may also increase its appeal for selling in the future.",
       "id": 1684530960811
     }
-  ]
+  ],
+  "data": [
+    {
+      "id": 1684530960814,
+      "brand": "yamaha",
+      "model": "mt-07",
+      "type": "naked",
+      "motorcc": "500cc-1200cc",
+      "banner": "https://images.pexels.com/photos/2611675/pexels-photo-2611675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "gas": "fuel",
+      "status": "First-Hand",
+      "price": 12000,
+      "stock": 467,
+      "basket": 1
+    },
+    {
+      "id": 1684530960816,
+      "brand": "harley davidson",
+      "model": "bobber",
+      "type": "chopper",
+      "motorcc": "500cc-1200cc",
+      "banner": "https://images.pexels.com/photos/2611690/pexels-photo-2611690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "gas": "diesel",
+      "status": "First-Hand",
+      "price": 11000,
+      "stock": 1574,
+      "basket": 1
+    },
+    {
+      "id": 1684969190211,
+      "brand": "ducati",
+      "model": "diavel",
+      "type": "naked",
+      "motorcc": "500cc-1200cc",
+      "banner": "https://images.pexels.com/photos/2611688/pexels-photo-2611688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "gas": "fuel",
+      "status": "Second-Hand",
+      "price": 17000,
+      "stock": 762,
+      "basket": 1
+    },
+    {
+      "id": 1684530960819,
+      "brand": "yamaha",
+      "model": "mt-09",
+      "type": "naked",
+      "motorcc": "500cc-1200cc",
+      "banner": "https://images.pexels.com/photos/4589747/pexels-photo-4589747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "gas": "diesel",
+      "status": "Second-Hand",
+      "price": 13000,
+      "stock": 82,
+      "basket": 1
+    },
+    {
+      "id": 1684969190208,
+      "brand": "yamaha",
+      "model": "yzf r125",
+      "type": "sport",
+      "motorcc": "125cc-250cc",
+      "banner": "https://images.pexels.com/photos/5921940/pexels-photo-5921940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "gas": "diesel",
+      "status": "Second-Hand",
+      "price": "2000",
+      "stock": 96,
+      "basket": 1
+    }
+  ],
+  "basket": []
 }
