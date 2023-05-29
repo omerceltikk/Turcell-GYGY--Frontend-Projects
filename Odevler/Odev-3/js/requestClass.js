@@ -1,6 +1,6 @@
 class Request {
   constructor(title, author, category, publicationDate, banner, score, content) {
-    this.url = "http://localhost:3000/contents";
+    this.url = "https://my-json-server.typicode.com/omerceltikk/Turcell-GYGY--Frontend-Projects/contents";
     this.id = Date.now();
     this.contentTitle = title;
     this.author = author;
